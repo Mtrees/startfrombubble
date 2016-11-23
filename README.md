@@ -1,0 +1,2 @@
+# startfrombubble
+collecting some codes 
